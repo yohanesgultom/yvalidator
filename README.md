@@ -1,4 +1,10 @@
-yvalidator
+yValidator
 ==========
 
-Simple yet customizable jquery + twitter bootstrap validator helper
+Simple yet customizable form validator built with jQuery and Twitter Bootstrap Tooltip
+
+Dependencies
+============
+
+* jQuery
+* Twitter Bootstrap (for the Tooltip)
